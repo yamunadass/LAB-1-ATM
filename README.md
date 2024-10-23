@@ -22,9 +22,5 @@ to withdraw money,deposit.
 ### PACKAGE DIAGRAM:
 ![package](https://github.com/23005672/LAB-1-ATM/assets/138971519/e9ead7c8-3d20-4a4a-843b-b7384a97e88e)
 
-
-
-
-
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
