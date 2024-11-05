@@ -15,8 +15,6 @@ to withdraw money,deposit.
 ![activity](https://github.com/23005672/LAB-1-ATM/assets/138971519/978c9f75-b46c-4d57-a943-264492ab34ca)
 ### COMMUNICATION DIAGRAM:
 ![communication](https://github.com/23005672/LAB-1-ATM/assets/138971519/7c00873e-390e-45ba-8a60-3ff8b4d9cb69)
-### STATECHART DIAGRAM:
-![statechart](https://github.com/23005672/LAB-1-ATM/assets/138971519/f7b0cf48-22cb-4b76-b894-3aa75d7656b0)
 ### SEQUENCE DIAGRAM:
 ![sequence](https://github.com/23005672/LAB-1-ATM/assets/138971519/95b6679e-6b82-4736-ba24-c6b3ae3886cc)
 ### PACKAGE DIAGRAM:
